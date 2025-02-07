@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Im Dave Just
+
+![Stats]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/djust270/terminal-svg/refs/heads/master/github_stats.svg))
 
 <!--
 **djust270/djust270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
